@@ -20,6 +20,8 @@ export default ProductCard;
 
 
 
-/*Isso aqui é o design do card */
+/*Isso aqui é o design do card apenas */
 
 /* No App.js tem um exemplo de como fazer o card aparecer. (Linha 78 até 107) */
+
+
