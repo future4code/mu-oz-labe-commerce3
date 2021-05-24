@@ -61,3 +61,28 @@ label {
   margin-top: 20px;
   grid-gap: 10px;
 }
+
+
+.card {
+  width: 100%;
+  border: 1px solid black;
+  height: 55vh;
+}
+img {
+  width: 100%;
+  height: 40vh;
+}
+.infor-product {
+  display: flex;
+  flex-direction: column;
+}
+button {
+  margin: 10px 40px 0px 40px;
+}
+
+
+.produto-escolhido {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
